@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Document -->
+  <path d="M12 8C12 5.79086 13.7909 4 16 4H36L52 20V56C52 58.2091 50.2091 60 48 60H16C13.7909 60 12 58.2091 12 56V8Z" fill="#2563EB"/>
+  <path d="M36 4L52 20H40C37.7909 20 36 18.2091 36 16V4Z" fill="#1D4ED8"/>
+
+  <!-- Document lines -->
+  <rect x="20" y="28" width="24" height="3" rx="1.5" fill="#BFDBFE"/>
+  <rect x="20" y="36" width="18" height="3" rx="1.5" fill="#BFDBFE"/>
+  <rect x="20" y="44" width="20" height="3" rx="1.5" fill="#BFDBFE"/>
+
+  <!-- Unlocked padlock -->
+  <g transform="translate(34, 38)">
+    <!-- Lock body -->
+    <rect x="0" y="8" width="18" height="14" rx="2" fill="#10B981"/>
+    <!-- Shackle (open) -->
+    <path d="M4 8V6C4 3.23858 6.23858 1 9 1V1C11.7614 1 14 3.23858 14 6" stroke="#10B981" stroke-width="3" stroke-linecap="round" fill="none"/>
+    <!-- Keyhole -->
+    <circle cx="9" cy="15" r="2" fill="#ECFDF5"/>
+  </g>
+</svg>
